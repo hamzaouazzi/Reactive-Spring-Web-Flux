@@ -6,5 +6,6 @@ This is a reactive web app for managing listed companies .
 * Spring Boot
 * Spring Data JPA
 * Thymeleaf
+* Smoothie-js
 * MongoDB
 
