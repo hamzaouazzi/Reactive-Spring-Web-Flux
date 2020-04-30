@@ -1,4 +1,4 @@
-# SocietyTransactions_Reactive-Spring-Web-Flux
+# Reactive-SocietyTransactions
 This is a reactive web app for managing listed companies .
 
 ## Technologies:
