@@ -1,5 +1,4 @@
-"# reactive-spring-web-flux" 
-# SupCinema Management 
+# SocietyTransactions_Reactive-Spring-Web-Flux
 This is a reactive web app for managing listed companies .
 
 ## Technologies:
